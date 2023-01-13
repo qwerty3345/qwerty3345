@@ -1,6 +1,6 @@
 
 
-### 👨‍💻 I'm Mason, Aspiring iOS developer 
+### 👨‍💻 I'm Mason, aspiring iOS developer 
   
 
 - 🌱 SeSAC X TastyCode iOS Bootcamp (2022.12.19~ ing)  
