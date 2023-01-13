@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**qwerty3345/qwerty3345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/59835351/212361456-672946fb-0f8f-4f43-9781-0a1f3f71b38b.jpeg" align="center" style="width: 30%" />
+</div>  
+  
 
-Here are some ideas to get you started:
+### <div align="center">I'm Mason, (studying to become) an iOS developer 👨‍💻</div>  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 SeSAC X TastyCode iOS Bootcamp (2022.12.19~ ing)  
+  
+
+- ✨ Allen's Swift School (22.07.25~22.09.25)  
+  
+
+<br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=qwerty3345&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=qwerty3345&&style=flat-square" align="center" />
+</div>  
+
+<br />
