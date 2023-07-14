@@ -2,11 +2,11 @@
 
 ### 👨‍💻 I'm Mason, aspiring iOS developer 
 
-- 🔹 네이버 부스트캠프 웹모바일 iOS 8기 (23.07~ing)
+- <img src="https://github.com/qwerty3345/qwerty3345/assets/59835351/559f0b71-10a5-4464-ac71-b9e541524170" width="20" height="20"> 네이버 부스트캠프 웹모바일 iOS 8기 (23.07~)
 
- - <img src="https://user-images.githubusercontent.com/59835351/227885774-2caae73b-5b1b-4e32-b837-649b51795d32.png" width="30" height="20"> 프로그라피 8th iOS (23.02~ing)
+ - <img src="https://user-images.githubusercontent.com/59835351/227885774-2caae73b-5b1b-4e32-b837-649b51795d32.png" width="30" height="20"> 프로그라피 동아리 8기 iOS (23.02~)
 
- - 🌱 SeSAC iOS  과정 (2022.12~2023.06)
+  - <img src="https://user-images.githubusercontent.com/59835351/227887489-4c401507-f114-40ab-94b5-ae8d7c6936b7.png" width="20" height="20"> SeSAC iOS  과정 (2022.12 ~ 2023.06)
 
  - ✨ 앨런 Swift 스쿨 (22.07~22.09)
 
