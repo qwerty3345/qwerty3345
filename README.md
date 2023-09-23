@@ -1,6 +1,6 @@
 
 
-### 👨‍💻 I'm Mason, aspiring iOS developer 
+### 👨‍💻 I'm Mason, iOS developer 
 
 - <img src="https://github.com/qwerty3345/qwerty3345/assets/59835351/559f0b71-10a5-4464-ac71-b9e541524170" width="20" height="20"> 네이버 부스트캠프 웹모바일 iOS 8기 챌린지/멤버쉽 (23.07~)
 
